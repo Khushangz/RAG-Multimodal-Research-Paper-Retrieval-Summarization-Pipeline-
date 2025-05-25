@@ -1,5 +1,5 @@
 # Automated-Research-paper-review-and-approach-generation-given-an-NLP-problem-statement-using-RAG
-Project for Information Retrieval and Web Agents (Spring 2025)
+
 
 Given any problem statement, researchers typically need to sift through numerous academic papers to
 grasp the latest advancements and identify the most efficient solution strategies. This manual review
