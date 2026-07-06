@@ -11,3 +11,5 @@ and summarization techniques to surface the most pertinent papers for a given qu
 tailoring a detailed, context-aware approach based on these curated insights, our method streamlines
 the research discovery phase and empowers users to rapidly converge on the best methodologies for
 their specific problem statements
+
+# The Evaluation part is still in progress and will update the github soon
